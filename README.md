@@ -1,4 +1,4 @@
-[<img src="assets/images/cover_image.png" width="100%">](#)
+[<img src="assets/images/coverimage.png" width="100%">](#)
 # 16 Keys: Pact of Remembering
 
 ### Table of contents
