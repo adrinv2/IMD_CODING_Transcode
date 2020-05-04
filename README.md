@@ -1,5 +1,5 @@
 [<img src="assets/images/cover_image.png" width="100%">](#)
-# The 16 Keys
+# 16 Keys: Pact of Remembering
 
 ### Table of contents
 >>
