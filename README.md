@@ -1,6 +1,7 @@
+[<img src="assets/images/cover_image.png" width="100%">](#)
 # The 16 Keys
 
-# Table of contents
+### Table of contents
 >>
 - [The Physical Items](#the-physical-items)
     - [Starting point](#starting-point)
@@ -25,7 +26,7 @@ The artefact that was analysed and transcoded for this assignment
 ## Metadata
 | Tag | Data |  
 |--|--|
-**IISG Call Number** | [IISG BG K21/985](https://search.iisg.amsterdam/Record/1109411)
+**IISG Call Number** | [IISG COLL00156](https://search.iisg.amsterdam/Record/COLL00156)
 | **Physical Description** | 16 keys
 | **Type** | Object
 | **Medium** | Tool/device
