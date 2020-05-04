@@ -253,3 +253,6 @@ These are potential concepts and ideas of what the transcoding tool could be.
     Using the [assignation system of each key to a set of information](#what-each-key-is-assigned-to) in combination with the [measurements of the physical key's teeth](#literal-transcoding) I would produce a database where all this data can be unlocked.
 
     ![](/assets/images/web.png)
+
+    ![](/assets/images/webew.png)
+    Update 04/05/2020
