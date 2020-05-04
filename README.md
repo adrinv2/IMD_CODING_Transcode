@@ -31,7 +31,7 @@ The artefact that was analysed and transcoded for this assignment
 | **Medium** | Tool/device
 | **Materials** | Copper, Steel, Iron
 | **Date** | prior to 1936
-|![](/assets/images/keys2.png)| 16 keys: three separated; four held together with a twisted wire that comes through the holes at the top; another three held together with a ring of metal, and the last six are held all together in another ring of metal. There are 9 designs (how they are physically shapes) for the keys, some of which are repeated.
+|![](/assets/images/keys3.png)| 16 keys: three separated; four held together with a twisted wire that comes through the holes at the top; another three held together with a ring of metal, and the last six are held all together in another ring of metal. There are 9 designs (how they are physically shapes) for the keys, some of which are repeated.
 
 
 ## The Physical Items
