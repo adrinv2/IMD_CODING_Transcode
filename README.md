@@ -19,13 +19,28 @@
 ---
 ---
 
+# Artefact
+The artefact that was analysed and transcoded for this assignment
+
+## Metadata
+| Tag | Data |  
+|--|--|
+**IISG Call Number** | [IISG BG K21/985](https://search.iisg.amsterdam/Record/1109411)
+| **Physical Description** | 16 keys
+| **Type** | Object
+| **Medium** | Tool/device
+| **Materials** | Copper, Steel, Iron
+| **Date** | prior to 1936
+|![](/assets/images/keys.jpg)| 16 keys: three separated; four held together with a twisted wire that comes through the holes at the top; another three held together with a ring of metal, and the last six are held all together in another ring of metal. There are 9 designs (how they are physically shapes) for the keys, some of which are repeated.
+
+
 ## The Physical Items
 
 ### Starting Point
 The starting point for researching items in the IISG archive was my cultural background and language. From the visits to the archive I found that they had an archive specified to the Spanish Civil War. Later, through researching I found out that this archive was actually for the CNT, a workers' union and one of the sides of the Civil War specifically.
 
 Through the keywords "Spain" and "CNT" I found the box containing [16 keys and 16 stamps](https://search.iisg.amsterdam/Record/COLL00156).  
-I found out that these keys were originating from CNT owned buildings and vehicles, many of which were stolen by the Fascist side, or rather legally taken as the winning side of the war. From there, I came to discover the legal battle taking place still today on these previous belongings of the CNT.
+I found out that these keys were originating from CNT owned buildings and vehicles, many of which were stolen by the Fascist side, or rather legay taken as the winning side of the war. From there, I came to discover the legal battle taking place still today on these previous belongings of the CNT.
 
 Photographs of the items at the archive:
   ![](/assets/images/keys.jpg)  ![](/assets/images/stamps.jpg)
