@@ -4,7 +4,7 @@
 ### Table of Contents
 1. [Artefact](#Artefact)
     1. [Metadata](#Metadata)
-2. [Research](#Research-h1)
+2. [Research](#Research)
 3. [Transcoding](#Transcoding)
     1. [Transcoding No. 1](#Transcoding-no-1)
     2. [Transcoding Tool](#Transcoding-tool)
@@ -27,7 +27,7 @@ In a box in the IISG archive, there is a box. This box contains a single
 | **Date** | prior to 1936
 |![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/keys5.png)| 16 keys: three separated; four held together with a twisted wire that comes through the holes at the top; another three held together with a ring of metal, and the last six are held all together in another ring of metal. There are 9 designs (how they are physically shapes) for the keys, some of which are repeated.
 
-# Research (H1)
+# Research
 
 ## The Starting Point
 The starting point for researching items in the IISG archive was my cultural background and language. From the visits to the archive I found that they had an archive specified to the Spanish Civil War. Later, through researching I found out that this archive was actually for the CNT, a workers' union and one of the sides of the Civil War specifically.
