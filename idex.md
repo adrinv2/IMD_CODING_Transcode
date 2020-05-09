@@ -14,7 +14,7 @@
 7. [Bibliography](#Bibliography)
 
 # Artefact
-The artefact that was analysed and transcoded for this assignment
+In a box in the IISG archive, there is a box. This box contains a single
 
 ## Metadata
 | Tag | Data |  
@@ -26,16 +26,33 @@ The artefact that was analysed and transcoded for this assignment
 | **Materials** | Copper, Steel, Iron
 | **Date** | prior to 1936
 |![](/assets/images/keys.jpg)| 16 keys: three separated; four held together with a twisted wire that comes through the holes at the top; another three held together with a ring of metal, and the last six are held all together in another ring of metal. There are 9 designs (how they are physically shapes) for the keys, some of which are repeated.
-
+ 
 # Research (H1)
 
-This section consolidates the background research, context and any relevant information regarding your research **into** the artefact.
+## The Starting Point
+The starting point for researching items in the IISG archive was my cultural background and language. From the visits to the archive I found that they had an archive specified to the Spanish Civil War. Later, through researching I found out that this archive was actually for the CNT, a workers' union and one of the sides of the Civil War specifically.
 
-## Research Sub-Heading (H2)
-Its important to give a clear structure to your Readme. Please use the document structure provided by markdown, so think of Headings, Sub-headings, text, bold/italic, lists (bullets and numbered), tables etc. You can also include some linked footnotes like this. <sup>[[1]](#footnote-1)</sup>
+Through the keywords "Spain" and "CNT" I found the box containing [16 keys and 16 stamps](https://search.iisg.amsterdam/Record/COLL00156).  
+I found out that these keys were originating from CNT owned buildings and vehicles, many of which were stolen by the Fascist side, or rather legay taken as the winning side of the war. From there, I came to discover the legal battle taking place still today on these previous belongings of the CNT.
 
-### Research Sub-sub-heading (H3)
-The H3 heading is useful to define specific subsections within the H2 section. If you are in doubt about information structure, take a look at different wikipedia articles for reference.
+Photographs of the items at the archive:
+  ![](/assets/images/keys.jpg)  ![](/assets/images/stamps.jpg)
+
+### Articles on the stolen properties
+
+  1. 1985: https://elpais.com/diario/1985/08/30/economia/494200810_850215.html
+  2. 2005: https://www.lahaine.org/est_espanol.php/a-vueltas-con-el-patrimonio
+  3. 2006: https://www.publico.es/politica/tribunal-avala-derecho-cnt-recuperar.html
+  4. 2008: https://www.diariodeleon.es/articulo/espana/trabajo-cierra-cnt-devolucion-patrimonio-incauto-franco/20080301000000950755.html
+  5. 2018: https://www.cnt.es/noticias/ochenta-anos-despues-cnt-sigue-exigiendo-la-recuperacion-de-su-patrimonio-historico/
+
+ ### Articles on the CNT-FAI IISG archive
+
+    1. https://elpais.com/diario/1982/01/19/ultima/380242807_850215.html
+    2. https://www.foroporlamemoria.info/documentos/2004/cnt_falsa_072004.htm
+    3. https://www.lamarea.com/2016/02/19/un-tesoro-libertario-en-el-pais-de-los-tulipanes/
+    4. https://iisg.amsterdam/en/collections/browsing/collection-guides/spanish-civil-war
+
 
 # Transcoding
 Please include a general description of the role of transcoding in your project. Using the H2 headings below, you can specify individual Transcoding experiments. Think about your motivations in transcoding, and mention the role of tools (also those made during the assignment). This gives some direction to the reader about what they will read in more detail below.
