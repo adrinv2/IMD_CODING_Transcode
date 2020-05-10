@@ -29,7 +29,7 @@ Sixteen keys scattered across a drawer that was yanked out suddenly from a CNT o
 
 # Research
 
-**The Starting Point**
+### The Starting Point
 The starting point for researching items in the IISG archive was my cultural background and language. From the visits to the archive I found that they had an archive specified to the Spanish Civil War. Later, through researching I found out that this archive was actually for the CNT, a workers' union and one of the sides of the Civil War specifically.
 
 Through the keywords "Spain" and "CNT" I found the box containing [16 keys and 16 stamps](https://search.iisg.amsterdam/Record/COLL00156).  
@@ -53,26 +53,26 @@ Photographs of the items at the archive:
   3. https://www.lamarea.com/2016/02/19/un-tesoro-libertario-en-el-pais-de-los-tulipanes/
   4. https://iisg.amsterdam/en/collections/browsing/collection-guides/spanish-civil-war
 
-**Origin of the items**
+### Origin of the items**
 
-  ![](/assets/images/address.png)
+  ![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/address.png)
 
   There were office documents in which the stamps were tested, found in the same box as the keys and stamps. The address at the top states where all these items came from; "Avenida B. Durruti 32-34". I researched the address but it no longer existed; Durruti was the name of a war hero, who died during the Civil War, and the street was renamed after him in commemoration, after his death during that time. This was also a give away it wouldn't exist any longer.
 
   I searched it in google maps, and indeed it was not there anymore. However, I did know it was in Barcelona because the IISG states that the boxes came from the offices in said city.
 
-  ![](/assets/images/default.jpg)
+  ![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/default.jpg)
 
   Upon searching for the address, on google, I found this document which states that Avenue B Durruti was previously called Layetana. So I searched the same address, changing "Avenida B. Durruti" for "Layetana".
 
-  ![](/assets/images/Untitled.png)
-  This was the google maps result of the address.
+  ![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/Untitled.png)
+    *This was the google maps result of the address.*
 
-  ![](/assets/images/11.jpg)
-  This was a photo I retrieved personally from the archive, on the anniversary of Durruti's death. The banner set up in the front of the building commemorates him. This was the second anniversary, on November of 1938.
+  ![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/11.jpg)
+    *This was a photo I retrieved personally from the archive, on the anniversary of Durruti's death. The banner set up in the front of the building commemorates him. This was the second anniversary, on November of 1938.*
 
-  ![](/assets/images/13.jpg)
-  Another picture retrieved from the IISG archive that shows the main entrance to the building.
+  ![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/13.jpg)
+    *Another picture retrieved from the IISG archive that shows the main entrance to the building.*
 
   The building itself was previously an employers' organisation -the national-, rather than the workers. The CNT requisitioned it in 1936 and made it the headquarters in Barcelona. After the war, Franco prohibited the CNT and anything in link with it, and returned the building to its original owners, that nowadays still own it. Now and prior to the CNT, the building goes by the name ["Fomento del Trabajo Nacional"](https://es.wikipedia.org/wiki/Fomento_del_Trabajo_Nacional).
 
