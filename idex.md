@@ -103,9 +103,9 @@ Under the EXIF tab, I scrolled down to the numerical data of the "photo" section
 The tool I used for this was [Image forensic](http://www.imageforensic.org/).
 
 ### Results
-(https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/metadata.png)  
-(https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/metadata2.png)
-(https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/metadata3.png)
+![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/metadata.png)  
+![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/metadata2.png)
+![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/metadata3.png)
 
 ## Transcoding Tool
 ### Description
