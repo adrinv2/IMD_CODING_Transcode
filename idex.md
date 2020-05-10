@@ -48,7 +48,7 @@ Photographs of the items at the archive:
 
 ### Articles on the CNT-FAI IISG archive
 
-    1. https://elpais.com/diario/1982/01/19/ultima/380242807_850215.html
+    1. (https://elpais.com/diario/1982/01/19/ultima/380242807_850215.html)
     2. https://www.foroporlamemoria.info/documentos/2004/cnt_falsa_072004.htm
     3. https://www.lamarea.com/2016/02/19/un-tesoro-libertario-en-el-pais-de-los-tulipanes/
     4. https://iisg.amsterdam/en/collections/browsing/collection-guides/spanish-civil-war
