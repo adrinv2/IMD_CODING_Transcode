@@ -36,7 +36,7 @@ Through the keywords "Spain" and "CNT" I found the box containing [16 keys and 1
 I found out that these keys were originating from CNT owned buildings and vehicles, many of which were stolen by the Fascist side, or rather legay taken as the winning side of the war. From there, I came to discover the legal battle taking place still today on these previous belongings of the CNT.
 
 Photographs of the items at the archive:
-  ![](/assets/images/keys.jpg)  ![](/assets/images/stamps.jpg)
+  ![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/keys.JPG)  ![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/stamps.JPG) ![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/keys/DSC_0238.JPG)
 
 ### Articles on the stolen properties
 
