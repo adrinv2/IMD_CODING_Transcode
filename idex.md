@@ -66,12 +66,14 @@ This not only made translating the existing keys themselves, breaking down their
 Being unable to go to the IISG archive due to the COVID-19 crisis meant that I had to work with the images of the keys that I took on a previous visit. From these, I am able to get a lot of detail as I intentionally took great close ups.
 It is important to state this because it means that all the following transcoding and data is derived from a copy of the original item, a reproduction. The data is from the reproduction itself rather than the keys as objects.  
 
-This particular transcoding focused on the numerical metadata of the photos of the keys.
+This particular transcoding focused on the numerical metadata of the photos of the keys, that is the EXIF data of the photo itself.
 
 ### Methods
 In order to achieve this, I found online two tools that could provide me all the metadata on each image.
 
 The first was [Image forensic](http://www.imageforensic.org/). From this, under the EXIF tab (exchangeable image file format) I was able to find the numerical data of each format for each image specifically. The Exchangeable Image File Format is a standard that specifies the formats for images, sound, and ancillary tags used by digital cameras, in this case providing metadata of the image as well as additional information.
+
+Under the EXIF tab, I scrolled down to the numerical data of the "photo" section, rather than the camera and other settings.
 
 
 ### Tools
