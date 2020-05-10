@@ -108,6 +108,10 @@ The tool I used for this was [Image forensic](http://www.imageforensic.org/).
 ![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/metadata3.png)
 
 
+********
+[Back to Table of Contents](#table-of-contents)
+********
+
 ## Transcoding No. 3
 ### Description
 This particular transcoding focused around photo forensics. This means to analyse the visual aspects of the image based on a superficial way by looking over the image and cross-comparing to other images.
@@ -140,6 +144,58 @@ Google, photoviewer, Photoshop.
 
 ![](assets/images/furniturepiece2.jpg)  
   *Here highlighted the same shapes that were identified in the photograph. The center piece between these two bookshelf sections also matches the one in the picture.*
+
+## Transcoding No. 4
+### Description
+This transcoding focused on the metaphorical, the story a key could carry attached to it. Specifically this reflected on Sephardi Jews in Spain.
+
+
+### Methods
+**Who are the Sephardi Jews?**
+
+The Sephardi Jews are Jews that lived in Spain and were expelled by the Catholic Kings (Ferdinand and Isabella) in the 15th century.
+
+They kept keys that belonged to their homes and mosques, and passed them on from generation to generation with the story of origin. Both the story and keys, like so, tied them back to their roots.
+
+Recently, in autumn of 2019, around 132, 000 descendants were able to apply for a Spanish citizenship. The Spanish government offered this opportunity as a means to make up for this historical wrong.
+
+1. [Story of one family (ES)](https://www.laopiniondezamora.es/zamora/2013/06/30/llave-conserva-familia-pudo-abrir/689362.html)
+2. [On Sephardi Jews (ES)](https://elordenmundial.com/los-sefardies-y-las-llaves-de-espana/)
+3. [Jews able to apply for Spanish Citizenship](https://www.theguardian.com/world/2019/oct/02/132000-sephardic-jews-apply-for-spanish-citizenship)
+
+![](/assets/images/sephardicjews.png)
+
+>*"Llave con la expresión castellana en mayúsculas latinas: «Dios abrirá, rey entrará», y compañera con la expresión árabe en cúfico: «al-Amr kullu-hu li-Ll×h» (Todo el poder pertenece a Dios), con la segunda palabra encabalgada al final de la primera. Se dice que estas llaves fueron entregadas por judíos y musulmanes, respectivamente, a Fernando III cuando tomó Sevilla en 1248."*
+
+Trans: *"Key with the Castilian expression in Latin capitals:« God will open, the king will enter », and a companion with the Arabic expression in Kufic:« al-Amr kullu-hu li-Ll × h »(All power belongs to God), with the second word hooded at the end of the first. These keys are said to have been given by Jews and Muslims, respectively, to Ferdinand III when he took Seville in 1248. "*
+
+[Spain’s Attempt to Atone for a 500-Year-Old Sin](https://www.theatlantic.com/international/archive/2019/09/spain-offers-citizenship-sephardic-jews/598258/)
+> *Salvador Espriu, a Catholic and one of the great Catalonian poets and novelists of the 20th century, used the Hebrew word Sepharad as a metaphor for Spain. He came of age as an artist during the Spanish Civil War and the dictatorship of Franco. For him, Sepharad stood for an ideal of justice that endured beyond the cruelty and intolerance that has plagued Spanish history. Espriu evoked the exile of the Jews and the yearning for a homecoming as a way of articulating his own voice as an “exile,” a critic of oppression in his own land.*
+
+>*In the 1960s, he wrote a poem titled La Pell de Brau (“The Bull-Hide”) that captures the radical hope of reconciliation that spurs me on my journey of return.*
+
+> *So, when someone
+asks us
+sometimes, in a harsh voice:
+“Why have you stayed
+here in this hard, dry land,
+this land soaked in blood?
+This is surely not the best of the lands you came upon
+in the long
+trial
+of your Exile”—with a small smile
+that remembers our fathers
+and our grandfathers, we only say:
+“In our dreams, yes, it is.”*
+
+
+
+
+### Tools
+  --
+
+### Results
+
 
 
   ********
