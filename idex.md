@@ -107,6 +107,43 @@ The tool I used for this was [Image forensic](http://www.imageforensic.org/).
 ![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/metadata2.png)
 ![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/metadata3.png)
 
+
+## Transcoding No. 3
+### Description
+This particular transcoding focused around photo forensics. This means to analyse the visual aspects of the image based on a superficial way by looking over the image and cross-comparing to other images.
+
+### Methods
+After researching into photo forensics, I found this project that through analysing video footage and images, alongside recreating spaces in Augmented Reality, they were able to recreate a bombing that occurred in Douma, Syria and find out if Syrian President Bashar al-Assad was responsible for it. [Here you can see the investigation.](https://www.nytimes.com/interactive/2018/06/25/world/middleeast/syria-chemical-attack-douma.html)
+
+This inspired me to conduct an investigation of my own, linking the keys to the objects they could have potentially belonged to, based off of a series of photographs that I collected from the IISG archive. These photographs were also sent from the same office that these keys came from, and most of these were taken within the offices of the [Fomento del Trabajo Nacional, in Barcelona](#Origin-of-the-items).
+
+From the images I gathered, I chose only the photographs that were interiors of the Foment del Nacianal (Fomento del Trabajo Nacional, National Work/Labour Promotion), showing offices. We know the keys came in an office drawer.
+
+
+### Tools
+Google, photoviewer, Photoshop.
+
+### Results
+![](assets/images/offices.png)  
+  *All images of the office interiors.*
+
+![](assets/images/picbg.png)  
+  *In this image I highlighted the background furniture piece. It is a bookshelf with drawers and closets, a traditional 1800s office furniture piece. It stood out the most because it's permanence was most likely; it is a furniture piece that is antique and built into the space of the office itself.*
+
+![](assets/images/picbg2.png)  
+  *Detail of the furniture piece extracted.*
+
+![](assets/images/picbg3.png)  
+  *Key features of the furniture piece, highlighted, as to identify it in other pictures.*
+
+![](assets/images/furniturepiece.jpg)  
+  *Upon googling, I was able to find an official [website](https://www.foment.com/es/sobre-nosotros/sede-social/) that presented all the public rooms of the Foment del Treball Nacional. In that, I found this room was called "Historical Office of the General Secretary". I went on to google it, as well as googling general interiors of the building,and found this photograph.*
+
+![](assets/images/furniturepiece2.jpg)  
+  *Here highlighted the same shapes that were identified in the photograph. The center piece between these two bookshelf sections also matches the one in the picture.*
+
+
+
 ## Transcoding Tool
 ### Description
 You might have made multiple coding tools during the semester. Or the transcoding tool might be part of a specific transcoding experiment itself. It's up to you to define the linear flow of the Readme. Just like the transcoding of media itself, the coding tool should be well documented. So if you are using a coding tool in your first experiment, include the documentation of the coding tool **before** you include the results, etc.
