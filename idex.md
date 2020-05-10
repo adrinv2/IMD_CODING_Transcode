@@ -63,6 +63,29 @@ This not only made translating the existing keys themselves, breaking down their
 
 ## Transcoding No. 1
 ### Description
+This first transcoding was a literal translation of what the keys possibly are. These are all hypothesised, based on research, given that the keys could not be analysed chemically.
+
+### Methods
+For this analysis, I had to base my theories on research. A lot of it was researching the materials of what different keys would be made of. This was based on researching what the keys were to begin with; a car key, the key of a lock of a furniture piece, the age of the key, if the key was stamped out as a copy, ... To know this, I researched the different shapes of the keys, writing on them or other symbols, and spoke to people who dealt with antiques and knew about older keys and locks.
+
+Additionally, I measured half of them the one time I visited the IISG. Based on the measurements I took, and crossing this information with the proportion the keys have proportionally to one another based on a picture (see the [Metadata](#metadata) for the image), I was able to guess the missing measurements. I did the measuring on InDesign after proportionally resizing the images.
+
+![](/assets/images/process.png)
+
+### Tools
+Google, interviews, visual research based on previous knowlegde. Analysing images visually by zooming in, picture viewer. Indesign.
+
+### Results
+- Car keys - Steel
+- Older keys - Iron
+- Newer keys - Brass
+
+![](/assets/images/measurements.png)
+
+
+
+## Transcoding No. 2
+### Description
 Being unable to go to the IISG archive due to the COVID-19 crisis meant that I had to work with the images of the keys that I took on a previous visit. From these, I am able to get a lot of detail as I intentionally took great close ups.
 It is important to state this because it means that all the following transcoding and data is derived from a copy of the original item, a reproduction. The data is from the reproduction itself rather than the keys as objects.  
 
@@ -73,14 +96,16 @@ In order to achieve this, I found online two tools that could provide me all the
 
 The first was [Image forensic](http://www.imageforensic.org/). From this, under the EXIF tab (exchangeable image file format) I was able to find the numerical data of each format for each image specifically. The Exchangeable Image File Format is a standard that specifies the formats for images, sound, and ancillary tags used by digital cameras, in this case providing metadata of the image as well as additional information.
 
-Under the EXIF tab, I scrolled down to the numerical data of the "photo" section, rather than the camera and other settings.
+Under the EXIF tab, I scrolled down to the numerical data of the "photo" section, rather than the camera and other settings. From this numerical data the photo can be recomposed.
 
 
 ### Tools
-Mention the tools that you used or made (if and when relevant).
+The tool I used for this was [Image forensic](http://www.imageforensic.org/).
 
 ### Results
-Some of your transcoding experiments may have smaller outcome sketches like images or short video tests. They can go directly within this section. Or maybe this transcoding became a part of the final outcome format. When that is the case, you can simply include a [hyperlink](#) to the final outcomes in the **Transcoding** section. In the final outcome section below you can embed or explain the final format outcome in detail.  
+(https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/metadata.png)  
+(https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/metadata2.png)
+(https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/metadata3.png)
 
 ## Transcoding Tool
 ### Description
