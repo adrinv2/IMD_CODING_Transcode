@@ -55,23 +55,20 @@ Photographs of the items at the archive:
 
 
 # Transcoding
-Please include a general description of the role of transcoding in your project. Using the H2 headings below, you can specify individual Transcoding experiments. Think about your motivations in transcoding, and mention the role of tools (also those made during the assignment). This gives some direction to the reader about what they will read in more detail below.
+The transcodings focused on the following question: "What is a key?".
+This not only made translating the existing keys themselves, breaking down their physicality, but also bring out the metaphorical aspects, different  types of keys as well as the story behind these keys.  
 
 ## Transcoding No. 1
 ### Description
-Short description here. You can structure the information and documentation for each transcoding, design research or coding tool as you like. It's important that you make clear the aims & goals of the transcoding, what methods and tools you use. If this is often the same across different transcodings, consider making a standardised table at the beginning of each.
+Being unable to go to the IISG archive due to the COVID-19 crisis meant that I had to work with the images of the keys that I took on a previous visit. From these, I am able to get a lot of detail as I intentionally took great close ups.
+It is important to state this because it means that all the following transcoding and data is derived from a copy of the original item, a reproduction. The data is from the reproduction itself rather than the keys as objects.  
 
-You should include well-formatted documentation of your experiments and developments below. Someone without previous knowledge about your work should be able to follow along the steps, aims and results of your developments from this structure. Make sure all media used is correctly linked or embedded (images, PDFs, Videos, etc).
+This particular transcoding focused on the numerical metadata of the photos of the keys.
 
 ### Methods
-Description of your methods, documentation of behind-the-scenes processes can go here. Think of the photos and videos you made when visiting the IISG or during captures of your artefact. You can use tools such as [Gifs.com](https://gifs.com/) to generate moving-image thumbnail to link to short videos.Just enough to give a clear overview, before getting into details.  
+In order to achieve this, I found online two tools that could provide me all the metadata on each image.
 
-With some HTML tags you can do simple styling in markdown, for example:
-
-    <width="50%">
-[<img src="https://j.gifs.com/ROJr3z.gif" width="50%">](https://youtu.be/o2rmmqxC4NU)
-
-Remember to include the url link to jump to the full media, of course!
+The first was [Image forensic](http://www.imageforensic.org/). From this, under the EXIF tab (exchangeable image file format) I was able to find the numerical data of each format for each image specifically.
 
 
 ### Tools
