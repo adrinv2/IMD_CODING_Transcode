@@ -14,7 +14,7 @@
 7. [Bibliography](#Bibliography)
 
 # Artefact
-In a box in the IISG archive, there is a box. This box contains a single
+Sixteen keys scattered across a drawer that was yanked out suddenly from a CNT office in the heated fire of the Spanish Civil War, now confined in the safety of a cardboard box in the IISG, in Amsterdam. It was 1939, Barcelona. What did the keys open? What would they come to represent?
 
 ## Metadata
 | Tag | Data |  
@@ -46,13 +46,16 @@ Photographs of the items at the archive:
   4. 2008: https://www.diariodeleon.es/articulo/espana/trabajo-cierra-cnt-devolucion-patrimonio-incauto-franco/20080301000000950755.html
   5. 2018: https://www.cnt.es/noticias/ochenta-anos-despues-cnt-sigue-exigiendo-la-recuperacion-de-su-patrimonio-historico/
 
- ### Articles on the CNT-FAI IISG archive
+### Articles on the CNT-FAI IISG archive
 
     1. https://elpais.com/diario/1982/01/19/ultima/380242807_850215.html
     2. https://www.foroporlamemoria.info/documentos/2004/cnt_falsa_072004.htm
     3. https://www.lamarea.com/2016/02/19/un-tesoro-libertario-en-el-pais-de-los-tulipanes/
     4. https://iisg.amsterdam/en/collections/browsing/collection-guides/spanish-civil-war
 
+********
+[Back to Table of Contents](#table-of-contents)
+********
 
 # Transcoding
 The transcodings focused on the following question: "What is a key?".
@@ -68,7 +71,7 @@ This particular transcoding focused on the numerical metadata of the photos of t
 ### Methods
 In order to achieve this, I found online two tools that could provide me all the metadata on each image.
 
-The first was [Image forensic](http://www.imageforensic.org/). From this, under the EXIF tab (exchangeable image file format) I was able to find the numerical data of each format for each image specifically.
+The first was [Image forensic](http://www.imageforensic.org/). From this, under the EXIF tab (exchangeable image file format) I was able to find the numerical data of each format for each image specifically. The Exchangeable Image File Format is a standard that specifies the formats for images, sound, and ancillary tags used by digital cameras, in this case providing metadata of the image as well as additional information.
 
 
 ### Tools
