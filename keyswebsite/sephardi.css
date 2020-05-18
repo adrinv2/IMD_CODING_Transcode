@@ -6,8 +6,10 @@
 
 }
 
+
+
 h3 {
-  font-size: 16px;
+  font-size: 30px;
   color: black;
 
 }
@@ -32,15 +34,6 @@ p {
   font-size: 15px;
 }
 
-img {
-  /* width:inherit; */
-  /* align-items: center;
-  max-width: 20px; */
-    width: 100%;
-    height: auto;
-    max-width: 90%;
-    float: inherit;
-}
 
 ::selection {
   color: black;
@@ -120,8 +113,11 @@ img {
     max-width: 100%;
     display: block;
     margin-bottom: 5vh;
-    margin-left: auto;
+    margin-left: 10%;
     margin-right: auto;
+    align-items: center;
+    align-content: center;
+      display: inline;
 }
 
 
