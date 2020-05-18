@@ -59,7 +59,7 @@ p {
 }
 
 .right-pane {
-    width:50vw;
+    width:100%;
     flex: auto;
 
 }
