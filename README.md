@@ -7,7 +7,10 @@
 2. [Research](#Research)
 3. [Transcoding](#Transcoding)
     1. [Transcoding No. 1](#Transcoding-no-1)
-    2. [Transcoding Tool](#Transcoding-tool)
+    2. [Transcoding No. 2](#Transcoding-no-2)
+    3. [Transcoding No. 3](#Transcoding-no-3)
+    4. [Transcoding No. 4](#Transcoding-no-4)
+    5. [Transcoding Tool](#Transcoding-tool)
 4. [Reflection](#Reflection)
 5. [Outcome](#Outcome)
 6. [Conclusion](#Conclusion)
@@ -155,20 +158,19 @@ Google, photoviewer, Photoshop.
 ![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/offices.png)  
   *All images of the office interiors.*
 
-![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/picbg.png)  
-  *In this image I highlighted the background furniture piece. It is a bookshelf with drawers and closets, a traditional 1800s office furniture piece. It stood out the most because it's permanence was most likely; it is a furniture piece that is antique and built into the space of the office itself.*
+![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/forensics1..png)  
+  *In this image I highlighted the background furniture piece. It is a bookshelf with drawers and closets, a traditional 1800s office furniture piece. It stood out the most because it's permanence was most likely; it is a furniture piece that is antique and built into the space of the office itself. RIGHT: Extraction of furniture piece and highlighted identifiable details.*
 
-![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/picbg2.png)  
-  *Detail of the furniture piece extracted.*
 
-![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/picbg3.png)  
-  *Key features of the furniture piece, highlighted, as to identify it in other pictures.*
+![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/forensics1.2.png)    
+  *Upon googling, I was able to find an official [website](https://www.foment.com/es/sobre-nosotros/sede-social/) that presented all the public rooms of the Foment del Treball Nacional. In that, I found this room was called "Historical Office of the General Secretary". I went on to google it, as well as googling general interiors of the building,and found this photograph. RIGHT: Highlighted details that match those of the photograph. The center piece between these two bookshelf sections also matches the one in the picture.*
 
-![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/furniturepiece.jpg)  
-  *Upon googling, I was able to find an official [website](https://www.foment.com/es/sobre-nosotros/sede-social/) that presented all the public rooms of the Foment del Treball Nacional. In that, I found this room was called "Historical Office of the General Secretary". I went on to google it, as well as googling general interiors of the building,and found this photograph.*
 
-![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/furniturepiece2.jpg)  
-  *Here highlighted the same shapes that were identified in the photograph. The center piece between these two bookshelf sections also matches the one in the picture.*
+
+
+  ********
+  [Back to Table of Contents](#table-of-contents)
+  ********
 
 ## Transcoding No. 4
 ### Description
