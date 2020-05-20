@@ -95,7 +95,7 @@ For this analysis, I had to base my theories on research. A lot of it was resear
 
 Additionally, I measured half of them the one time I visited the IISG. Based on the measurements I took, and crossing this information with the proportion the keys have proportionally to one another based on a picture (see the [Metadata](#metadata) for the image), I was able to guess the missing measurements. I did the measuring on InDesign after proportionally resizing the images.
 
-![](/assets/images/process.png)
+![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/process.png)
 
 ### Tools
 Google, interviews, visual research based on previous knowlegde. Analysing images visually by zooming in, picture viewer. Indesign.
@@ -105,7 +105,7 @@ Google, interviews, visual research based on previous knowlegde. Analysing image
 - Older keys - Iron
 - Newer keys - Brass
 
-![](/assets/images/measurements.png)
+![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/measurements.png)
 
 
 
@@ -152,22 +152,22 @@ From the images I gathered, I chose only the photographs that were interiors of 
 Google, photoviewer, Photoshop.
 
 ### Results
-![](assets/images/offices.png)  
+![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/offices.png)  
   *All images of the office interiors.*
 
-![](assets/images/picbg.png)  
+![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/picbg.png)  
   *In this image I highlighted the background furniture piece. It is a bookshelf with drawers and closets, a traditional 1800s office furniture piece. It stood out the most because it's permanence was most likely; it is a furniture piece that is antique and built into the space of the office itself.*
 
-![](assets/images/picbg2.png)  
+![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/picbg2.png)  
   *Detail of the furniture piece extracted.*
 
-![](assets/images/picbg3.png)  
+![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/picbg3.png)  
   *Key features of the furniture piece, highlighted, as to identify it in other pictures.*
 
-![](assets/images/furniturepiece.jpg)  
+![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/furniturepiece.jpg)  
   *Upon googling, I was able to find an official [website](https://www.foment.com/es/sobre-nosotros/sede-social/) that presented all the public rooms of the Foment del Treball Nacional. In that, I found this room was called "Historical Office of the General Secretary". I went on to google it, as well as googling general interiors of the building,and found this photograph.*
 
-![](assets/images/furniturepiece2.jpg)  
+![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/furniturepiece2.jpg)  
   *Here highlighted the same shapes that were identified in the photograph. The center piece between these two bookshelf sections also matches the one in the picture.*
 
 ## Transcoding No. 4
