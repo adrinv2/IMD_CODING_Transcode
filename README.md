@@ -1,4 +1,4 @@
-[<img src="assets/images/coverimage.png" width="100%">](#)
+[<img src="https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/coverimage.png" width="100%">](#)
 # The 16 Keys
 
 ### Table of Contents
@@ -188,7 +188,7 @@ Recently, in autumn of 2019, around 132, 000 descendants were able to apply for 
 2. [On Sephardi Jews (ES)](https://elordenmundial.com/los-sefardies-y-las-llaves-de-espana/)
 3. [Jews able to apply for Spanish Citizenship](https://www.theguardian.com/world/2019/oct/02/132000-sephardic-jews-apply-for-spanish-citizenship)
 
-![](/assets/images/sephardicjews.png)
+![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/sephardicjews.png)
 
 >*"Llave con la expresión castellana en mayúsculas latinas: «Dios abrirá, rey entrará», y compañera con la expresión árabe en cúfico: «al-Amr kullu-hu li-Ll×h» (Todo el poder pertenece a Dios), con la segunda palabra encabalgada al final de la primera. Se dice que estas llaves fueron entregadas por judíos y musulmanes, respectivamente, a Fernando III cuando tomó Sevilla en 1248."*
 
@@ -217,10 +217,10 @@ and our grandfathers, we only say:
 
 
 ### Tools
-  --
+Google, google-translate.
 
 ### Results
-
+--
 
 
   ********
@@ -230,19 +230,40 @@ and our grandfathers, we only say:
 
 ## Transcoding Tool
 ### Description
-You might have made multiple coding tools during the semester. Or the transcoding tool might be part of a specific transcoding experiment itself. It's up to you to define the linear flow of the Readme. Just like the transcoding of media itself, the coding tool should be well documented. So if you are using a coding tool in your first experiment, include the documentation of the coding tool **before** you include the results, etc.
+Upon researching the CNT, at the beginning of this project, it became apparent to me that their historical presence (during the Spanish Civil War) was lacking both online and in Spain itself. Being the losing side of the war, in some aspects it made sense, particularly since Franco then imposed a dictatorship up until 1975. Therefore, the presence and remembrance of the CNT during that time would have just sparked more tensions, and so he attempted to remove it.
+
+After the dictatorship ended, a new pact was drawn up by both leftist and rightist political parties to forget the legacy of Franco and not follow it. It was called the Pact of Forgetting (_Pacto del Olvido_), under the basis of the Spanish Amnesty Law.
+
+In 2004, socialist prime minister Jose Luis Rodriguez Zapatero drafted up the Historical Memory Law. It rejected the legitimacy of laws and trials that took place under the Francoist regime, and removed any remaining symbols of Franco from buildings.
+
+I do not want to challenge these legal pacts, I do not wish to prosecute Franco and the events during his regime, but with my tool I want to bring back the presence and remembrance of the CNT, from a human stand point. I want to bring the collection of CNT at the IISG a little closer to Spanish people, given that the CNT still to this day cannot host and maintain the items of the archive. A platform to make this information available.
+
 
 ### Aims
-Include the main aims or intentions behind making the tool, and what it is used for.
+As mentioned above, my tool was a website that would allow the user to unlock information by navigating and clicking these 16 keys. The information are a collection of research from my project; photographs of the IISG, other photographs found online, stories, etc.
 
 ### Methods
-This includes the coding languages, coding frameworks or libraries, and any platforms or webtools for example.   
+First I assigned the keys to different material:
+
+![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/ADRIANANV_plan.png)
+
+Then I proceeded to sketch the website:
+
+![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/web.png)
+
+![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/sketchweb.png)
+![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/sketchweb2.png)
+![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/sketchweb3.png)
+
+
+
 
 ### Results
 The coding tool will vary a lot between different students. So depending on the use and type, you may include more or less documentation here.
 
 ### Source Links
-Please include links to the tools, sources etc used during the coding. E.g. the resources used for making your coding tool.  
+1.
+2.
 
 
 # Reflection
