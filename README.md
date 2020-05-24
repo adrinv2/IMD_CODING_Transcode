@@ -230,7 +230,7 @@ The idea was to make the physical moulds either out of epoxy since it is a non-h
 Because of the COVID-19 crisis, it was not possible to realise this outcome. Prior to the crisis, I was only able to do a full day visit to the archive itself and after that, it was impossible to access it. Therefore, this transcoding was not realised.
 
 
-   
+
 ********
 [Back to Table of Contents](#table-of-contents)
 ********
@@ -383,4 +383,4 @@ A website that compiles information about the CNT in relation to loss of propert
 **WEBSITE ITSELF: [ XXXX ](https://adrinv2.github.io/IMD_CODING_Transcode/keyswebsite/index.html)**  
 
 # Conclusion
-I enjoyed the research of this project very much, since it allowed me to go thoroughly about finding information and content. I also the website coding aspect, bringing together everything that I have learnt in the past.
+I enjoyed the research of this project very much, since it allowed me to go thoroughly about finding information and content. I also enjoyed the website coding aspect, bringing together everything that I have learnt in the past.
