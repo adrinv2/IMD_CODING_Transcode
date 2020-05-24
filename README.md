@@ -79,8 +79,24 @@ Photographs of the items at the archive:
 
   The building itself was previously an employers' organisation -the national-, rather than the workers. The CNT requisitioned it in 1936 and made it the headquarters in Barcelona. After the war, Franco prohibited the CNT and anything in link with it, and returned the building to its original owners, that nowadays still own it. Now and prior to the CNT, the building goes by the name ["Fomento del Trabajo Nacional"](https://es.wikipedia.org/wiki/Fomento_del_Trabajo_Nacional).
 
+### Other archive material  
+
+#### Lists of returned property (objects and buildings)
+
+*These lists are NOT from the IISG archive, but from "Instituto del Patrimonio Cultural" archive of Spain (trans: Institute of Cultural Heritage).*  
+
+![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/files.png)  
 
 
+#### Photo material from multiple archives
+*The material below is from the IISG as well as other archives such as the Arxieu Fotographic of Barcelona and Institute of Cultural Heritage of Spain (Instituto de Patrimonio Cultural de España).*  
+
+  ![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/allcars.png)
+  ![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/alloffices.png)
+  ![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/allother.png)  
+
+
+      
 ********
 [Back to Table of Contents](#table-of-contents)
 ********
