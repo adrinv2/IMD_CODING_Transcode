@@ -5,46 +5,52 @@
 }
 
 body {
+  background: rgb(210, 210, 210);
   /* font-family: sans-serif;
   font-size: 16px; */
 }
 
 hr.new1 {
-/* border: 4px dashed purple; */
-border: 2px;
-border-style: dashed none none none;
-color: purple;
-width: 100%;
-margin-top: 0.8%;
-margin-bottom: 0.8%;
 
+  border: 2px;
+  border-style: dashed none none none;
+  color: rgb(106, 5, 140);
+  width: 100%;
+  margin-top: 0.8%;
+  margin-bottom: 0.7%;
 }
+
+hr.new2 {
+
+  border: 2px;
+  border-style: dashed none none none;
+  color: rgb(106, 5, 140);
+  width: 100%;
+  margin-top: 0;
+  margin-bottom: 0.8%;
+}
+
 
 .nav {
   text-align: right;
   margin-right: 2%;
   margin-top: 1em;
-  /* display: inline-block; */
 
-
-  /* margin-right: 15%; */
 }
+
 .title {
   font-size: 9em;
-  color: purple;
+  color: rgb(106, 5, 140);
   font-family: "Bagnard Sans";
   line-height: 0.9em;
-  /* position: relative; */
+
   display: block;
-   backface-visibility: hidden;
+  backface-visibility: hidden;
 }
 
 #wrapper {
-position: relative;
-width: inherit;
-
-
-
+  position: relative;
+  width: inherit;
 }
 
 .text {
@@ -52,71 +58,99 @@ width: inherit;
   height: auto;
   z-index: 9;
   top: 1em;
-
-
 }
 
 #wrapper .text {
-font-family: 'Source Code Pro', monospace;
-z-index: 9;
-position: absolute;
-display:flex;
-background-color: rgb(252, 220, 52);
 
-color: purple;
-font-size: 25px;
-font-style: italic;
-text-align: left;
-visibility:hidden;
-padding: 0.3em 0.9em;
-text-align: center;
-margin-bottom: 2em;
-margin-left: 32%;
-
+  font-family: 'Source Code Pro', monospace;
+  z-index: 9;
+  position: absolute;
+  display: flex;
+  background-color: rgb(252, 220, 52);
+  color: rgb(106, 5, 140);
+  font-size: 25px;
+  font-style: italic;
+  text-align: left;
+  visibility: hidden;
+  padding: 0.3em 0.9em;
+  text-align: center;
+  margin-bottom: 2em;
+  margin-left: 32%;
 }
 
 #wrapper:hover .text {
-visibility: visible;
-z-index: 9;
-
+  visibility: visible;
+  z-index: 9;
 }
 
 #wrapper:hover .title {
   color: rgb(252, 220, 52);
   z-index: 9;
-
 }
+
 .about {
   /* position: relative; */
-font-family: 'Source Code Pro', monospace;
-color: purple;
+  font-family: 'Source Code Pro', monospace;
+  color: rgb(106, 5, 140);
   position: relative;
-    text-align: right;
+  text-align: right;
   cursor: pointer;
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
-
 }
 
+.about p {
+  font-size: 12px;
+  font-family: 'Source Code Pro', monospace;
+  color: rgb(106, 5, 140);
+}
+#about {
+  font-size: 14px;
+  font-family: 'Source Code Pro', monospace;
+  color: rgb(106, 5, 140);
+  font-style: bold;
+}
+
+.popuptext {
+     word-wrap: break-word;
+  z-index: 9;
+  margin-left: 37%;
+}
+
+.close {
+  color: rgb(106, 5, 140);
+  float: right;
+  font-size: 28px;
+  position: absolute;
+  top: 0.5vh;
+  left: 58.5vw;
+  /* font-weight: bold; */
+}
+
+.close:hover,
+.close:focus {
+  color: white;
+  text-decoration: none;
+  cursor: pointer;
+}
 
 .about .popuptext {
-font-family: 'Source Code Pro', monospace;
+     word-wrap: break-word;
+  font-family: 'Source Code Pro', monospace;
   visibility: hidden;
-  width: 7em;
-  background-color: purple;
-  color: white;
-  text-align: center;
-  border-radius: 6px;
-  padding: 8px 0;
-  margin-left: 8em;
-  width: 80%;
+  background-color: rgb(252, 220, 52);
+  color:rgb(106, 5, 140);
+  text-align: left;
+  width: auto;
+  padding: 10px 10px;
   height: auto;
   display: block;
-  justify-content: center;
-  align-items: center;
   position: absolute;
+  border: 1px solid rgb(106, 5, 140);
+  box-shadow: -0.5em 0.5em rgb(106, 5, 140);
+
 }
 
 /* Popup arrow */
@@ -124,7 +158,7 @@ font-family: 'Source Code Pro', monospace;
   content: "";
   margin-left: auto;
   margin-right: auto;
-  width: 80%;
+  width: 7%;
   height: auto;
   display: flex;
 }
@@ -132,31 +166,40 @@ font-family: 'Source Code Pro', monospace;
 /* Toggle this class - hide and show the popup */
 .about .show {
   visibility: visible;
-  -webkit-animation: fadeIn 2s;
-  animation: fadeIn 2s;
+  -webkit-animation: fadeIn 1s;
+  animation: fadeIn 1s;
 }
 
 /* Add animation (fade in the popup) */
 @-webkit-keyframes fadeIn {
-  from {opacity: 0;}
-  to {opacity: 1;}
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
 }
 
 @keyframes fadeIn {
-  from {opacity: 0;}
-  to {opacity:1 ;}
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
 }
 
 /* ---- button ---- */
 .button {
-font-family: 'Source Code Pro', monospace;
-
-display: inline-block;
+  font-family: 'Source Code Pro', monospace;
+  display: inline-block;
   padding: 5px 9px;
   margin-bottom: 10px;
-  border: 1px solid purple;
+  border: 1px solid rgb(106, 5, 140);
   border-radius: 20px;
-  color: purple;
+  color: rgb(106, 5, 140);
   background: white;
   font-size: 13px;
   cursor: pointer;
@@ -165,12 +208,12 @@ display: inline-block;
 
 .button:hover {
   background-color: rgb(252, 220, 52);
-  color: purple;
+  color: rgb(106, 5, 140);
 }
 
 .button:active,
 .button.is-checked {
-  background-color: purple;
+  background-color: rgb(106, 5, 140);
 }
 
 .button.is-checked {
@@ -182,7 +225,6 @@ display: inline-block;
 }
 
 /* ---- button-group ---- */
-
 .button-group {
   margin-left: 2%;
 
@@ -203,9 +245,6 @@ display: inline-block;
   margin-right: 1px;
 }
 
-
-
-
 /* ---- isotope ---- */
 .grid {
   /* border: 1px solid #333; */
@@ -213,13 +252,11 @@ display: inline-block;
   margin-left: 1%;
   /* margin-right: 1%;  */
   height: auto;
-  width: 100%
-  padding: 0 0 0 0;
+  width: 100% padding: 0 0 0 0;
   display: flex;
   justify-content: center;
   align-items: center;
   /* background-color: black; */
-
 }
 
 /* clear fix */
@@ -229,8 +266,6 @@ display: inline-block;
   top: 20px;
 }
 
-
-
 .element-item {
   position: relative;
   width: 12em;
@@ -239,9 +274,9 @@ display: inline-block;
   /* padding: 1.2em; */
   padding-left: 2em;
   color: #262524;
-  border: 1px solid purple;
+  border: 1px solid rgb(106, 5, 140);
   background: white;
-  box-shadow: -0.5em 0.5em purple;
+  box-shadow: -0.5em 0.5em rgb(106, 5, 140);
 }
 
 .element-item>* {
@@ -262,6 +297,6 @@ display: inline-block;
 img {
   /* width:inherit; */
   top: inherit;
-  height:inherit;
+  height: inherit;
   text-align: center;
 }
