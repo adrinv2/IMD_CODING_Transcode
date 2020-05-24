@@ -165,8 +165,21 @@ Google, photoviewer, Photoshop.
 ![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/forensics1.2.png)    
   *Upon googling, I was able to find an official [website](https://www.foment.com/es/sobre-nosotros/sede-social/) that presented all the public rooms of the Foment del Treball Nacional. In that, I found this room was called "Historical Office of the General Secretary". I went on to google it, as well as googling general interiors of the building,and found this photograph. RIGHT: Highlighted details that match those of the photograph. The center piece between these two bookshelf sections also matches the one in the picture.*
 
+![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/forensics1.4.png)   
+*There was the potential that one of the keys had opened the drawer they were found in.*
 
+![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/forensics1.5.png)  
+*I realised that the handle was missing, probably removed for the factor of transport. Or perhaps, it was broken to open the drawer. Perhaps the top part was broken too, forced, seeing as it is not a smooth rounded off edge. RIGHT: Potential knobs the drawer could have had.*
 
+![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/forensics1.3.png)   
+*I selected images where similar office drawers could be seen.*  
+
+![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/forensics1.6.png)   
+*Here I highlighted these drawers that resembled the above examples.*
+
+![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/forensics1.7.png)   
+*See here a more cropped version of the drawers.*
+   
 
   ********
   [Back to Table of Contents](#table-of-contents)
