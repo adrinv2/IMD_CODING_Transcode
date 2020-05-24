@@ -282,9 +282,9 @@ As part of the process, I gathered codes I took from the metadata of the keys th
 ### Source Links
 1. http://diegofunken.com/
 2. http://p-dpa.net/
-3. https://open-foundry.com/fonts/bagnard_sans_regular
-4. https://www.poetasandaluces.com/poema/800/
-5. http://photorequestsfromsolitary.org/
+3. http://photorequestsfromsolitary.org/
+4. https://open-foundry.com/fonts/bagnard_sans_regular
+5. https://www.poetasandaluces.com/poema/800/
 6. https://isotope.metafizzy.co/filtering.html
 7. https://www.w3schools.com/howto/howto_js_popup.asp
 8. https://www.w3schools.com/howto/howto_css_modals.asp
