@@ -1,0 +1,268 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+
+}
+
+hr.new1 {
+
+  border: 2px;
+  border-style: dashed none none none;
+  color: rgb(106, 5, 140);
+  width: 100%;
+  margin-top: 0.8%;
+  margin-bottom: 0.7%;
+}
+
+body {
+  background: rgb(210, 210, 210);
+/*  background: rgb(249,244,233);*/
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    -webkit-font-smoothing: antialiased;
+    /* overflow:hidden; */
+}
+
+
+.nav {
+  text-align: right;
+  margin-right: 2%;
+  margin-top: 1em;
+
+}
+
+.title {
+  font-size: 9em;
+  color: rgb(106, 5, 140);
+  font-family: "Bagnard Sans";
+  line-height: 0.9em;
+  display: block;
+  backface-visibility: hidden;
+}
+
+#first h2 {
+  font-size: 25px;
+  color: rgb(106, 5, 140);
+  font-family: "Bagnard Sans";
+  text-align: center;
+  padding: 20px 20px;
+
+}
+
+#wrapper {
+  position: relative;
+  width: inherit;
+}
+
+.text {
+  width: 40%;
+  height: auto;
+  z-index: 9;
+  top: 1em;
+}
+
+#wrapper .text {
+
+  font-family: 'Source Code Pro', monospace;
+  z-index: 9;
+  position: absolute;
+  display: flex;
+  background-color: rgb(252, 220, 52);
+  color: rgb(106, 5, 140);
+  font-size: 25px;
+  font-style: italic;
+  text-align: left;
+  visibility: hidden;
+  padding: 0.3em 0.9em;
+  text-align: center;
+  margin-bottom: 2em;
+  margin-left: 32%;
+}
+
+#wrapper:hover .text {
+  visibility: visible;
+  z-index: 9;
+}
+
+#wrapper:hover .title {
+  color: rgb(252, 220, 52);
+  z-index: 9;
+}
+
+.about {
+  /* position: relative; */
+  font-family: 'Source Code Pro', monospace;
+  color: rgb(106, 5, 140);
+  position: relative;
+  text-align: right;
+  margin-right: 1.5%;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.about p {
+  font-size: 12px;
+  font-family: 'Source Code Pro', monospace;
+  color: rgb(106, 5, 140);
+}
+#about {
+  font-size: 14px;
+  font-family: 'Source Code Pro', monospace;
+  color: rgb(106, 5, 140);
+  font-style: bold;
+}
+
+.popuptext {
+     word-wrap: break-word;
+  z-index: 9;
+  margin-left: 37%;
+}
+
+.close {
+  color: rgb(106, 5, 140);
+  float: right;
+  font-size: 28px;
+  position: absolute;
+  top: 0.5vh;
+  left: 58.5vw;
+  /* font-weight: bold; */
+}
+
+.close:hover,
+.close:focus {
+  color: white;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.about .popuptext {
+     word-wrap: break-word;
+  font-family: 'Source Code Pro', monospace;
+  visibility: hidden;
+  background-color: rgb(252, 220, 52);
+  color:rgb(106, 5, 140);
+  text-align: left;
+  width: auto;
+  padding: 15px 15px;
+  height: auto;
+  display: block;
+  position: absolute;
+  border: 1px solid rgb(106, 5, 140);
+  box-shadow: -0.5em 0.5em rgb(106, 5, 140);
+
+}
+
+/* Popup arrow */
+.about .popuptext::after {
+  content: "";
+  margin-left: auto;
+  margin-right: auto;
+  width: 5%;
+  height: auto;
+  display: flex;
+}
+
+/* Toggle this class - hide and show the popup */
+.about .show {
+  visibility: visible;
+  -webkit-animation: fadeIn 1s;
+  animation: fadeIn 1s;
+}
+
+/* Add animation (fade in the popup) */
+@-webkit-keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+#gallery {
+    /* position: absolute; */
+    display: inline-block;
+    width: 70%;
+    margin-left: 17%;
+    border: 1px solid rgb(106, 5, 140);
+    background: white;
+    color:rgb(106, 5, 140);
+    box-shadow: -1.5em 1.5em rgb(106, 5, 140);
+    margin-top: 2vh;
+    margin-bottom: 5vh;
+
+}
+
+#gallery p {
+word-wrap: break-word;
+font-family: 'Source Code Pro', monospace;
+color:rgb(106, 5, 140);
+text-align: left;
+width: auto;
+padding: 30px 30px;
+height: auto;
+font-size: 13px;
+
+
+}
+
+img {
+  width: auto;
+  max-width: 90%;
+  max-height: 90vh;
+  display: block;
+  margin-top: 4vh;
+  margin-bottom: 4vh;
+  margin-left: auto;
+  margin-right: auto;
+  align-content: center;
+
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  background: rgba(252, 220, 52);
+}
+
+
+::-webkit-scrollbar-track {
+color: rgb(106, 5, 140);
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+background: rgb(106, 5, 140);
+  border-radius: 10px;
+}
+
+.back {
+  font-size: 14px;
+  font-family: 'Source Code Pro', monospace;
+  color: rgb(106, 5, 140);
+  cursor: pointer;
+  margin-left: 5%;
+  padding: 1vh 1vw;
+}
+
+.back:hover {
+  background-color: rgb(252, 220, 52);
+  color: rgb(106, 5, 140);
+}
