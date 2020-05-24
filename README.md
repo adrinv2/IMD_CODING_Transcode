@@ -14,7 +14,7 @@
 4. [Reflection](#Reflection)
 5. [Outcome](#Outcome)
 6. [Conclusion](#Conclusion)
-7. [Bibliography](#Bibliography)
+
 
 # Artefact
 Sixteen keys scattered across a drawer that was yanked out suddenly from a CNT office in the heated fire of the Spanish Civil War, now confined in the safety of a cardboard box in the IISG, in Amsterdam. It was 1939, Barcelona. What did the keys open? What would they come to represent?
@@ -307,20 +307,26 @@ As part of the process, I gathered codes I took from the metadata of the keys th
 9. https://fonts.google.com/specimen/Source+Code+Pro?sidebar.open&selection.family=Source+Code+Pro:ital@0;1
 
 # Reflection
-You might want to include a section about reflecting on the results of your coding and IMD experiments this semester. It can give additional context before reading the final outcomes below.
+Reflecting on this project and the outcomes, I am proud and like the final outcome of the website. It is an easy way to make this information available online since my aim from the beginning was making all this information more widely available.
+
+I would have liked to have done more physical outcomes, which were my original plan. 3D printed keys as part of performance, verbal storytelling, physical moulds of the keys themselves... Of course, this was not possible due to COVID-19 crisis, which pushed me to more digital mediums. Hence, I discarded many potential outcomes but have kept note of them for future projects/ideas.
+
+To further this, had I had the time, I would have made a version in Spanish so that Spanish citizens could access all the information available.
 
 # Outcomes
-This section will be different for each student, depending on how and what is formatted as a final result for the semester assignment. Nevertheless a clear written and documented outcomes is important. So give the appropriate subsections or formats to make this as thorough as possible.
+A website that compiles information about the CNT in relation to loss of property, giving a meaning to sixteen keys found in the IISG archive. Should be run on Chrome, on a Windows computer ideally. The user can use the filters to sort out information they wish to see, as well as click specific links to analyse this information more closely.
 
 ### Outcome Links
-Here you link to your final assignment outcomes. This could be a website, a video, etc etc. Please include links to the appropriate GitHub folder on your repository where your coding tool is stored.
+![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/finalweb1.png)
+![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/finalweb2.png)
+![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/finalweb3.png)
+![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/finalweb4.png)
+![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/finalweb5.png)
 
-This is the main way to access your IMD + Coding outcomes for the semester. So its very important that you check for bugs, troubleshoot hyperlink issues, embedded media issues etc. Please make sure you KNOW where each file you use is stored. E.g. If you migrated from Notion markdown into GitHub, its **VERY IMPORTANT** to know that Notion randomly stores images on an Amazon server. It changes those locations all the time. So if your main outcome or documentation is still grabbing those links, **its very likely** they might disappear before collectives. So please have all media and necessary files managed well in your own locations (online or github etc).   
+
+**DEMO VIDEO: [ XXXX ](https://www.youtube.com/watch?v=c0QzUnDA8mw)**
+
+**WEBSITE ITSELF: [ XXXX ](https://adrinv2.github.io/IMD_CODING_Transcode/keyswebsite/index.html)**  
 
 # Conclusion
-You might have a nice conclusive observation to share at the end :)
-
-## Bibliography
-Of course, as with all research work please include a good bibliography with links, and any references that were used or might give additional depth to the work.
-
-<a name="footnote-1">**[1]**</a>: Look at this little referenced footnote over here. You can look up different text formats for referencing books, online articles, films etc.
+I enjoyed the research of this project very much, since it allowed me to go thoroughly about finding infromation and content. I also the website coding aspect, bringing together everything that I have learnt in the past.
