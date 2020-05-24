@@ -10,6 +10,7 @@
     2. [Transcoding No. 2](#Transcoding-no-2)
     3. [Transcoding No. 3](#Transcoding-no-3)
     4. [Transcoding No. 4](#Transcoding-no-4)
+    5. [Transcoding No. 5](#Transcoding-no-5)
     5. [Transcoding Tool](#Transcoding-tool)
 4. [Reflection](#Reflection)
 5. [Outcome](#Outcome)
@@ -96,7 +97,7 @@ Photographs of the items at the archive:
   ![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/allother.png)  
 
 
-      
+
 ********
 [Back to Table of Contents](#table-of-contents)
 ********
@@ -201,7 +202,41 @@ Google, photoviewer, Photoshop.
   [Back to Table of Contents](#table-of-contents)
   ********
 
+
 ## Transcoding No. 4
+### Description
+This is a more physical take on transcoding that consisted of making moulds of the keys in order to later reproduce them.
+The material that was going to be archived was both the moulds and original keys, or so was the intention. The moulds were also going to be used to reproduce new keys for a performance, attaching meaning to a physical object given out.
+
+### Methods  
+
+**Research**   
+1. [Student created 3D scan out of a mould with photogrammetry and thus created the object and 3D printed it in bronze.](https://archaeologyorkney.com/2016/09/26/becoming-a-digital-coppersmith/)
+2. [Person used KeyMe app to make scans sent them to print to place in NYC.](https://www.wired.com/2014/07/keyme-let-me-break-in/)
+3. [Photogrammetry, key is standing on putty or plasticine, something alike.](https://www.youtube.com/watch?v=BwNgcXpitSw)
+4. [Silicone putty for casting: two part mix that air dries.](https://www.youtube.com/watch?v=1evLu0m2yCU)
+5. [Epoxy buttons with metallic powders and metallic epoxy.](https://www.youtube.com/watch?v=Y2SHIZdvrFY)
+
+The idea was to make the physical moulds either out of epoxy since it is a non-harmful substance for the keys themselves. If this approach wasn't allowed, then from a 3D printed key, which would be done through scanning the keys with photogrammetry.   
+
+### Tools
+1. Two part mould / A&B silicone [place one to buy from](https://schminkengrime.nl/mouldlife-lifeform-1kg) & [place two to buy from](https://cosplayshop.be/en/product/silicone-paste/)
+2. Camera / phone camera
+3. 3D printer
+4. Zephyr program to compose together the images for photogrammetry
+
+
+### Results
+Because of the COVID-19 crisis, it was not possible to realise this outcome. Prior to the crisis, I was only able to do a full day visit to the archive itself and after that, it was impossible to access it. Therefore, this transcoding was not realised.
+
+
+   
+********
+[Back to Table of Contents](#table-of-contents)
+********
+
+
+## Transcoding No. 5
 ### Description
 This transcoding focused on the metaphorical, the story a key could carry attached to it. Specifically this reflected on Sephardi Jews in Spain.
 
