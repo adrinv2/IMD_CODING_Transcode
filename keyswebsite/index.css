@@ -1,52 +1,122 @@
 * {
+  margin: 0;
+  padding: 0;
   box-sizing: border-box;
 }
 
 body {
-  font-family: sans-serif;
-  font-size: 16px;
+  /* font-family: sans-serif;
+  font-size: 16px; */
 }
 
+hr.new1 {
+/* border: 4px dashed purple; */
+border: 2px;
+border-style: dashed none none none;
+color: purple;
+width: 100%;
+margin-top: 0.8%;
+margin-bottom: 0.8%;
 
-.topinfo {
+}
+
+.nav {
   text-align: right;
-  margin-right: 110px;
-  margin-top: 10px;
+  margin-right: 2%;
+  margin-top: 1em;
+  /* display: inline-block; */
+
 
   /* margin-right: 15%; */
 }
-
 .title {
-  font-size: 20px;
-  color: red;
+  font-size: 9em;
+  color: purple;
+  font-family: "Bagnard Sans";
+  line-height: 0.9em;
+  /* position: relative; */
+  display: block;
+   backface-visibility: hidden;
 }
 
+#wrapper {
+position: relative;
+width: inherit;
+
+
+
+}
+
+.text {
+  width: 40%;
+  height: auto;
+  z-index: 9;
+  top: 1em;
+
+
+}
+
+#wrapper .text {
+font-family: 'Source Code Pro', monospace;
+z-index: 9;
+position: absolute;
+display:flex;
+background-color: rgb(252, 220, 52);
+
+color: purple;
+font-size: 25px;
+font-style: italic;
+text-align: left;
+visibility:hidden;
+padding: 0.3em 0.9em;
+text-align: center;
+margin-bottom: 2em;
+margin-left: 32%;
+
+}
+
+#wrapper:hover .text {
+visibility: visible;
+z-index: 9;
+
+}
+
+#wrapper:hover .title {
+  color: rgb(252, 220, 52);
+  z-index: 9;
+
+}
 .about {
   /* position: relative; */
-
+font-family: 'Source Code Pro', monospace;
+color: purple;
+  position: relative;
     text-align: right;
   cursor: pointer;
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
+
 }
 
 
 .about .popuptext {
+font-family: 'Source Code Pro', monospace;
   visibility: hidden;
-  width: 160px;
-  background-color: #555;
-  color: #fff;
+  width: 7em;
+  background-color: purple;
+  color: white;
   text-align: center;
   border-radius: 6px;
   padding: 8px 0;
-  margin-right: auto;
+  margin-left: 8em;
   width: 80%;
   height: auto;
   display: block;
   justify-content: center;
   align-items: center;
+  position: absolute;
 }
 
 /* Popup arrow */
@@ -62,8 +132,8 @@ body {
 /* Toggle this class - hide and show the popup */
 .about .show {
   visibility: visible;
-  -webkit-animation: fadeIn 1s;
-  animation: fadeIn 1s;
+  -webkit-animation: fadeIn 2s;
+  animation: fadeIn 2s;
 }
 
 /* Add animation (fade in the popup) */
@@ -79,28 +149,28 @@ body {
 
 /* ---- button ---- */
 .button {
-margin: 10px;
+font-family: 'Source Code Pro', monospace;
+
 display: inline-block;
   padding: 5px 9px;
   margin-bottom: 10px;
-  border: 1px solid black;
+  border: 1px solid purple;
   border-radius: 20px;
-  color: black;
+  color: purple;
   background: white;
-  font-family: sans-serif;
-  font-size: 16px;
+  font-size: 13px;
   cursor: pointer;
 
 }
 
 .button:hover {
-  background-color:  rgb(221, 0, 0);
-  color: black;
+  background-color: rgb(252, 220, 52);
+  color: purple;
 }
 
 .button:active,
 .button.is-checked {
-  background-color: black;
+  background-color: purple;
 }
 
 .button.is-checked {
@@ -108,13 +178,13 @@ display: inline-block;
 }
 
 .button:active {
-  background-color: rgb(180, 23, 23);
+  background-color: white;
 }
 
 /* ---- button-group ---- */
 
 .button-group {
-  margin-left: 10%;
+  margin-left: 2%;
 
 }
 
@@ -140,13 +210,15 @@ display: inline-block;
 .grid {
   /* border: 1px solid #333; */
   /* display: block; */
-  margin-left: 8%;
-  margin-right: 8%;
+  margin-left: 1%;
+  /* margin-right: 1%;  */
   height: auto;
+  width: 100%
   padding: 0 0 0 0;
   display: flex;
   justify-content: center;
   align-items: center;
+  /* background-color: black; */
 
 }
 
@@ -157,16 +229,19 @@ display: inline-block;
   top: 20px;
 }
 
-/* ---- .element-item ---- */
+
+
 .element-item {
   position: relative;
-  float: left;
-  width: 200px;
-  height: 200px;
-  margin: 5px;
-  padding: 10px;
+  width: 12em;
+  height: 12em;
+  margin: 0.5em;
+  /* padding: 1.2em; */
+  padding-left: 2em;
   color: #262524;
-  border: 1px solid #333;
+  border: 1px solid purple;
+  background: white;
+  box-shadow: -0.5em 0.5em purple;
 }
 
 .element-item>* {
@@ -186,18 +261,7 @@ display: inline-block;
 
 img {
   /* width:inherit; */
+  top: inherit;
   height:inherit;
+  text-align: center;
 }
-
-
-
-/* .element-item.alkali          { background: #F00; background: hsl(   0, 100%, 50%); }
-.element-item.alkaline-earth  { background: #F80; background: hsl(  36, 100%, 50%); }
-.element-item.lanthanoid      { background: #FF0; background: hsl(  72, 100%, 50%); }
-.element-item.actinoid        { background: #0F0; background: hsl( 108, 100%, 50%); }
-.element-item.transition      { background: #0F8; background: hsl( 144, 100%, 50%); }
-.element-item.post-transition { background: #0FF; background: hsl( 180, 100%, 50%); }
-.element-item.metalloid       { background: #08F; background: hsl( 216, 100%, 50%); }
-.element-item.diatomic        { background: #00F; background: hsl( 252, 100%, 50%); }
-.element-item.halogen         { background: #F0F; background: hsl( 288, 100%, 50%); }
-.element-item.noble-gas       { background: #F08; background: hsl( 324, 100%, 50%); } */
