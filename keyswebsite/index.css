@@ -60,6 +60,9 @@ hr.new2 {
   top: 1em;
 }
 
+
+
+
 #wrapper .text {
 
   font-family: 'Source Code Pro', monospace;
@@ -94,6 +97,7 @@ hr.new2 {
   color: rgb(106, 5, 140);
   position: relative;
   text-align: right;
+    margin-right: 1.5%;
   cursor: pointer;
   -webkit-user-select: none;
   -moz-user-select: none;
@@ -144,7 +148,7 @@ hr.new2 {
   color:rgb(106, 5, 140);
   text-align: left;
   width: auto;
-  padding: 10px 10px;
+  padding: 15px 15px;
   height: auto;
   display: block;
   position: absolute;
@@ -158,7 +162,7 @@ hr.new2 {
   content: "";
   margin-left: auto;
   margin-right: auto;
-  width: 7%;
+  width: 5%;
   height: auto;
   display: flex;
 }
@@ -299,4 +303,21 @@ img {
   top: inherit;
   height: inherit;
   text-align: center;
+}
+
+
+::-webkit-scrollbar {
+  width: 10px;
+  background: rgba(252, 220, 52);
+}
+
+
+::-webkit-scrollbar-track {
+color: rgb(106, 5, 140);
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+background: rgb(106, 5, 140);
+  border-radius: 10px;
 }
