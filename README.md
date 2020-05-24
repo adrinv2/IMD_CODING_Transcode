@@ -284,7 +284,7 @@ As part of the process, I gathered codes I took from the metadata of the keys th
  My choice for the colours of the website come from the Spanish Republican flag, since the CNT was part of the Republican side during the Spanish Civil War (yellow and purple). The colours I originally had were of the CNT but aesthetically did not work well (originally had red and black).
 
 
-    
+
 
 ### Results
 ![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/finalweb1.png)
@@ -332,4 +332,4 @@ A website that compiles information about the CNT in relation to loss of propert
 **WEBSITE ITSELF: [ XXXX ](https://adrinv2.github.io/IMD_CODING_Transcode/keyswebsite/index.html)**  
 
 # Conclusion
-I enjoyed the research of this project very much, since it allowed me to go thoroughly about finding infromation and content. I also the website coding aspect, bringing together everything that I have learnt in the past.
+I enjoyed the research of this project very much, since it allowed me to go thoroughly about finding information and content. I also the website coding aspect, bringing together everything that I have learnt in the past.
