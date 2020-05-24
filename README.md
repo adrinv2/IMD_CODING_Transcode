@@ -268,15 +268,27 @@ As part of the process, I gathered codes I took from the metadata of the keys th
 
 
 ### Results
+![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/finalweb1.png)
+![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/finalweb2.png)
+![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/finalweb3.png)
+![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/finalweb4.png)
+![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/finalweb5.png)
 
 
+**DEMO VIDEO: [ XXXX ](https://www.youtube.com/watch?v=c0QzUnDA8mw)**
 
-
+**WEBSITE ITSELF: [ XXXX ](https://adrinv2.github.io/IMD_CODING_Transcode/keyswebsite/index.html)**
 
 ### Source Links
-1.
-2.
-
+1. http://diegofunken.com/
+2. http://p-dpa.net/
+3. https://open-foundry.com/fonts/bagnard_sans_regular
+4. https://www.poetasandaluces.com/poema/800/
+5. http://photorequestsfromsolitary.org/
+6. https://isotope.metafizzy.co/filtering.html
+7. https://www.w3schools.com/howto/howto_js_popup.asp
+8. https://www.w3schools.com/howto/howto_css_modals.asp
+9. https://fonts.google.com/specimen/Source+Code+Pro?sidebar.open&selection.family=Source+Code+Pro:ital@0;1
 
 # Reflection
 You might want to include a section about reflecting on the results of your coding and IMD experiments this semester. It can give additional context before reading the final outcomes below.
