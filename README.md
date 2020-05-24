@@ -2,19 +2,19 @@
 # The 16 Keys
 
 ### Table of Contents
-1. [Artefact](#Artefact)
-    1. [Metadata](#Metadata)
-2. [Research](#Research)
-3. [Transcoding](#Transcoding)
-    1. [Transcoding No. 1](#Transcodingno1)
-    2. [Transcoding No. 2](#Transcodingno2)
-    3. [Transcoding No. 3](#Transcodingno3)
-    4. [Transcoding No. 4](#Transcodingno4)
-    5. [Transcoding No. 5](#Transcodingno5)
-    5. [Transcoding Tool](#Transcodingtool)
-4. [Reflection](#Reflection)
-5. [Outcome](#Outcome)
-6. [Conclusion](#Conclusion)
+1. [Artefact](#artefact)
+    1. [Metadata](#metadata)
+2. [Research](#research)
+3. [Transcoding](#transcoding)
+    1. [Transcoding No. 1](#transcodingno1)
+    2. [Transcoding No. 2](#transcodingno2)
+    3. [Transcoding No. 3](#transcodingno3)
+    4. [Transcoding No. 4](#transcodingno4)
+    5. [Transcoding No. 5](#transcodingno5)
+    5. [Transcoding Tool](#transcodingtool)
+4. [Reflection](#reflection)
+5. [Outcome](#outcome)
+6. [Conclusion](#conclusion)
 
 
 # Artefact
@@ -99,7 +99,7 @@ Photographs of the items at the archive:
 
 
 ********
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#tableofcontents)
 ********
 
 # Transcoding
@@ -154,7 +154,7 @@ The tool I used for this was [Image forensic](http://www.imageforensic.org/).
 
 
 ********
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#tableofcontents)
 ********
 
 ## Transcoding No. 3
@@ -199,7 +199,7 @@ Google, photoviewer, Photoshop.
 
 
   ********
-  [Back to Table of Contents](#table-of-contents)
+  [Back to Table of Contents](#tableofcontents)
   ********
 
 
@@ -232,7 +232,7 @@ Because of the COVID-19 crisis, it was not possible to realise this outcome. Pri
 
 
 ********
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#tableofcontents)
 ********
 
 
@@ -290,7 +290,7 @@ Google, google-translate.
 
 
   ********
-  [Back to Table of Contents](#table-of-contents)
+  [Back to Table of Contents](#tableofcontents)
   ********
 
 
