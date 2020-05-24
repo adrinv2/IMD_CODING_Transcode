@@ -27,6 +27,9 @@ body {
     /* overflow:hidden; */
 }
 
+.headline:hover{
+  color: rgb(252, 220, 52);
+}
 
 .nav {
   text-align: right;
@@ -51,8 +54,12 @@ body {
   font-family: "Bagnard Sans";
   text-align: center;
   padding: 20px 20px;
+  cursor: pointer;
+  text-decoration: inherit;
 
-
+}
+#first:hover h2 {
+  color:rgb(252, 220, 52);
 }
 
 #wrapper {

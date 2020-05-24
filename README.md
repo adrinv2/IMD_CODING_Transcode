@@ -258,10 +258,20 @@ Then I proceeded to sketch the website:
 ![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/sketchweb3.png)
 
 
+As part of the process, I gathered codes I took from the metadata of the keys themselves. And so using this code, I assigned a keyword to each (which would become then my tagging system for the website).
+
+![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/codes.png)
+*ABOVE: The codes assigned per keyword.*
+
+![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/codesinuse.png)
+*ABOVE: The codes assigned to the keywords in use.*
 
 
 ### Results
-The coding tool will vary a lot between different students. So depending on the use and type, you may include more or less documentation here.
+
+
+
+
 
 ### Source Links
 1.
