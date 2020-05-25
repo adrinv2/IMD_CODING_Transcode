@@ -125,6 +125,20 @@ Google, interviews, visual research based on previous knowlegde. Analysing image
 - Older keys - Iron
 - Newer keys - Brass
 
+- Words written into them:
+  1. "SEGAL" "A64360"
+  2. "7"
+  3. "BRIGGS & STRATON CORP." "MADE IN U.S.A." "KNOCK OUT" "MIL. WIS." "BASCO" "GENERAL MOTORS CORP." "GM" "8930"
+  4. "BRIGGS & STRATON CORP." "MADE IN U.S.A." "KNOCK OUT" "MIL. WIS." "BASCO" "GENERAL MOTORS CORP." "GM" "8955"
+  5. "CREST"
+  6. "DODGE" "DPCD" "MADE IN U.S.A"
+  7. "--283" (the first two numbers are cut off or hidden under rust)
+  8. "LOCK & PRODUCTS CO. INC." "INTERNATIONAL" "DETROIT, U.S.A." "H D37"
+  9. "-C283" (first digit or letter is cut off, the second can be a C or a 0.)
+  7. "DODGE" "DPCD" "MADE IN U.S.A"
+  8. "2"   
+
+
 ![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/measurements.png)
 
 
