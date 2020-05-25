@@ -379,9 +379,9 @@ As part of the process, I gathered codes I took from the metadata of the keys th
 ![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/finalweb5.png)
 
 
-**DEMO VIDEO: [ XXXX ](https://www.youtube.com/watch?v=c0QzUnDA8mw)**
+**[DEMO VIDEO](https://www.youtube.com/watch?v=c0QzUnDA8mw)**
 
-**WEBSITE ITSELF: [ XXXX ](https://adrinv2.github.io/IMD_CODING_Transcode/keyswebsite/index.html)**
+**[WEBSITE ITSELF](https://adrinv2.github.io/IMD_CODING_Transcode/keyswebsite/index.html)**  
 
 ### Source Links
 1. http://diegofunken.com/
@@ -412,9 +412,9 @@ A website that compiles information about the CNT in relation to loss of propert
 ![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/finalweb5.png)
 
 
-**DEMO VIDEO: [ XXXX ](https://www.youtube.com/watch?v=c0QzUnDA8mw)**
+**[DEMO VIDEO](https://www.youtube.com/watch?v=c0QzUnDA8mw)**
 
-**WEBSITE ITSELF: [ XXXX ](https://adrinv2.github.io/IMD_CODING_Transcode/keyswebsite/index.html)**  
+**[WEBSITE ITSELF](https://adrinv2.github.io/IMD_CODING_Transcode/keyswebsite/index.html)**  
 
 # Conclusion
 I enjoyed the research of this project very much, since it allowed me to go thoroughly about finding information and content. I also enjoyed the website coding aspect, bringing together everything that I have learnt in the past.
