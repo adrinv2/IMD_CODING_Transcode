@@ -252,11 +252,12 @@ Because of the COVID-19 crisis, it was not possible to realise this outcome. Pri
 
 ## Transcoding No. 5
 ### Description
-This transcoding focused on the metaphorical, the story a key could carry attached to it. Specifically this reflected on Sephardi Jews in Spain.
+This transcoding focused on the metaphorical, the story a key could carry attached to it. Specifically this reflected on Sephardi Jews in Spain.   
+The outcome of this would be an oral story (or just a story) to conduct a performance with. Like the sephardi jews pass on from generation to generation a key that carries a story of origins, so I would do the same. I would reproduce the keys and then adhere this oral story.
 
 
 ### Methods
-**Who are the Sephardi Jews?**
+**Who are the Sephardi Jews? (Research)**
 
 The Sephardi Jews are Jews that lived in Spain and were expelled by the Catholic Kings (Ferdinand and Isabella) in the 15th century.
 
@@ -293,14 +294,33 @@ that remembers our fathers
 and our grandfathers, we only say:
 “In our dreams, yes, it is.”*
 
+**Oral Storytelling as an Archiving method (Research)**  
 
+   ![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/oralhistory.jpg)   
+
+   For research on oral history, I read _"Lost and Living (In) Archives: Collectively Shaping New Memories"_ by Annet Dekker (ed.) and more specifically the chapter "The Hidden Value of Oral History an 'Open' Society: A Discussion" in which Annet Dekker interviewed Josien Pieterse & Stef Scagliola. The following information is abstracted from the chapter as notes I took.
+    - Personal Experience: Oral history enables you to show how things affect one another (complex, abstract)
+    - Oral history offers context and making new connections
+    - TRAUMATIC EXPERIENCES: later life influence, personal, social + institutional context
+    - "Sometimes something has to become history before free reflection on it becomes possible. There is more mental space when reputations are no longer at stake" -MORE MENTAL SPACE, analysing things with distance.
+    - "The personal narrative has become increasingly important to bring the paper archive to life" Museums use this method, with a person you identify with to tell a particularly emotional story. The objects in an archive become withdrawn and without emotional weight, just an object. Even a letter that is intimate becomes analytically withdrawn, not expressing all the emotional attachment a person had to it.
+    - Video provides supplementary information in story telling. A person is able to project oneself on a visual more than an abstract hearing.
+    - Oral history is not often transcribed. (which sometimes puts it in danger of extinction)
+    - The authentication process for oral stories relies on the archive, on the physical record as it is just word of mouth PERSONAL NOTE: Often oral story survives through song.
+
+[More storytelling examples] (https://www.nationalgeographic.org/article/storytelling-and-cultural-traditions/)
+
+**Examples of oral storytelling**
+   1. [Indigo Night by Tamino](https://www.youtube.com/watch?v=3wVTmlD86a8)
+   2. [Brer Rabbit's Dance told by Diane Ferlatte](https://www.youtube.com/watch?v=QEoEGr955tw)
+   3. [Bella Ciao, folk song that was adjusted by the Partisans fighting in Italy during WWII](https://www.youtube.com/watch?v=4CI3lhyNKfo)
 
 
 ### Tools
-Google, google-translate.
+Google, translating tools (as well as personal knowlegde), _"Lost and Living (In) Archives: Collectively Shaping New Memories"_ by Annet Dekker (ed.), writing, video (possibly) or an image slideshow. Word document or physically written to record it.
 
 ### Results
---
+Because I chose to prioritise other outcomes, I never fully completed the story I was making. 
 
 
   ********
