@@ -320,7 +320,7 @@ and our grandfathers, we only say:
 Google, translating tools (as well as personal knowlegde), _"Lost and Living (In) Archives: Collectively Shaping New Memories"_ by Annet Dekker (ed.), writing, video (possibly) or an image slideshow. Word document or physically written to record it.
 
 ### Results
-Because I chose to prioritise other outcomes, I never fully completed the story I was making. 
+Because I chose to prioritise other outcomes, I never fully completed the story I was making. And so this research and concept became part of my process but not my outcomes.
 
 
   ********
