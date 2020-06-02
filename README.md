@@ -13,7 +13,7 @@
     5. [Transcoding No. 5](#transcodingno5)
     5. [Transcoding Tool](#transcodingtool)
 4. [Reflection](#reflection)
-5. [Outcome](#outcome)
+5. [Outcomes](#outcomes)
 6. [Conclusion](#conclusion)
 
 
@@ -405,16 +405,16 @@ To further this, had I had the time, I would have made a version in Spanish so t
 A website that compiles information about the CNT in relation to loss of property, giving a meaning to sixteen keys found in the IISG archive. Should be run on Chrome, on a Windows computer ideally. The user can use the filters to sort out information they wish to see, as well as click specific links to analyse this information more closely.
 
 ### Outcome Links
-![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/finalweb1.png)
-![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/finalweb2.png)
+**[DEMO VIDEO](https://www.youtube.com/watch?v=c0QzUnDA8mw)**
+
+**[WEBSITE ITSELF](https://adrinv2.github.io/IMD_CODING_Transcode/keyswebsite/index.html)**  
+
+
 ![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/finalweb3.png)
 ![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/finalweb4.png)
 ![](https://github.com/adrinv2/IMD_CODING_Transcode/blob/master/assets/images/finalweb5.png)
 
 
-**[DEMO VIDEO](https://www.youtube.com/watch?v=c0QzUnDA8mw)**
-
-**[WEBSITE ITSELF](https://adrinv2.github.io/IMD_CODING_Transcode/keyswebsite/index.html)**  
 
 # Conclusion
 I enjoyed the research of this project very much, since it allowed me to go thoroughly about finding information and content. I also enjoyed the website coding aspect, bringing together everything that I have learnt in the past.
